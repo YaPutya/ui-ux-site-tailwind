@@ -1,1 +1,1 @@
-# ui-ux-site-tailwind
+# Веб-сайт с современным UI/UX на React JS с помощью Tailwind + почти полное отсутствие CSS!
